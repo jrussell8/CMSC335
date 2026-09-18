@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+<strong>Last Modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Viga&display=swap" rel="stylesheet">
+
+<link rel="icon" href="favicon-96x96.png" type="image/png">
+ <meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+        <title>"JOE"</title>
+    </head>
+    <body>
+        <h1>Terpconnect Static Site</h1>
+        <h2>Render Info</h2>
+        <ul>
+            <li>
+Name: Josir Russell
+            </li>
+            <li>
+                Render Location: 
+            </li>
+        </ul>
+        
+        <table>
+        <thead>
+            <tr>
+                <th>Day</th>
+                <th>Monday</th>
+                <th>Wednesday</th>
+                <th>Friday</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- <table class="tableStyle"></table> -->
+            <tr>
+                <td >Body Focus</td>
+                <td >Chest</td>
+                <td>Back</td>
+                <td >Legs</td>
+            </tr>
+            
+
+
+
+        </tbody>
+        <tfoot>
+            <tr>
+                <td >Exercises</td>
+                <td> Bench Press</td>
+                <!-- <td colspan="2" class="blue_Underlined_txt">Campus Tour</td> -->
+                <td >
+                    Pull Ups
+                </td>
+                <td> Squats</td>
+                
+
+            
+        </tfoot>
+    </table>
+    <ul>
+        <a href="https://youtube.com/shorts/hWbUlkb5Ms4?si=a2z16sskqjr0t4DE">Bench Press Checklist</a>
+    </ul>
+     <ul>
+        <a href="https://youtube.com/shorts/PPmvh7gBTi0?si=yfrXATI7HYvngHc2">Squat Checklist</a>
+     </ul>
+      <ul>
+         <a href="https://youtube.com/shorts/gy1dyxEdCqc?si=66aNldMKwcmE_Hir">Pullup Checklist</a>
+      </ul>
+      
+    </body>
+</html>

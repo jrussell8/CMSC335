@@ -1,0 +1,28 @@
+html {
+    font-size: 14px;
+font-family: "Viga", sans-serif;
+font-weight: 400;
+  font-style: normal;
+   background-color: tan;
+}
+
+th {
+            /* #af411c; */
+            color: #ffef08;
+			background-color: #0f0a01;
+			padding: 2px;
+		}
+        table, td {
+            border: 1rem solid rgb(255, 226, 4)
+            
+        }
+        table{
+            background-color: rgb(17, 16, 17);
+        }
+        td{
+            color: #ffef08;
+        }
+
+body{
+    margin: 5rem;
+}

@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "CMSC335",
+			"path": ".."
+		},
+		{
+			"name": "Webpage",
+			"path": "../../Webpage"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CMSC335"
+	}
+}
